@@ -1,2 +1,2 @@
 # token-core
-Artikel über automatisiertes Trading, Psychologie
+Artikel über automatisiertes Trading & Psychologie
