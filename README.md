@@ -1,6 +1,4 @@
-# token-core
+# [token-core](https://tokencore.ch)
 Artikel über automatisiertes Trading & Psychologie
 
-ℹ️ Noch mehr Informationen
-Eine zusätzliche neutrale Informationsseite ist:
-👉 tokencore.info – hier finden Sie verständlich erklärte Inhalte über die Idee hinter TokenCore, Technologie, Anwendungsbeispiele und häufige Fragen.
+Mehr Informationen finden Sie auf [tokencore.info](https://tokencore.info).
